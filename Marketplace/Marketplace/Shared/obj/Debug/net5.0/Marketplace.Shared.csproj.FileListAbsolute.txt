@@ -1,0 +1,24 @@
+C:\Users\ded\Desktop\Marketplace\Marketplace\Shared\bin\Debug\net5.0\Marketplace.Shared.deps.json
+C:\Users\ded\Desktop\Marketplace\Marketplace\Shared\bin\Debug\net5.0\Marketplace.Shared.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Shared\bin\Debug\net5.0\ref\Marketplace.Shared.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Shared\bin\Debug\net5.0\Marketplace.Shared.pdb
+C:\Users\ded\Desktop\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.csproj.AssemblyReference.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ded\Desktop\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.AssemblyInfoInputs.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.AssemblyInfo.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Shared\obj\Debug\net5.0\ref\Marketplace.Shared.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.pdb
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Shared\bin\Debug\net5.0\Marketplace.Shared.deps.json
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Shared\bin\Debug\net5.0\Marketplace.Shared.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Shared\bin\Debug\net5.0\ref\Marketplace.Shared.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Shared\bin\Debug\net5.0\Marketplace.Shared.pdb
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.csproj.AssemblyReference.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.AssemblyInfoInputs.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.AssemblyInfo.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.csproj.CoreCompileInputs.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Shared\obj\Debug\net5.0\ref\Marketplace.Shared.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.pdb

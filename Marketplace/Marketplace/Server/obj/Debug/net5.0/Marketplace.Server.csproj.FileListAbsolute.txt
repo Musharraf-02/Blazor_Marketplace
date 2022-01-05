@@ -1,0 +1,120 @@
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Client.StaticWebAssets.xml
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.StaticWebAssets.xml
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.exe
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.deps.json
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.runtimeconfig.json
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.runtimeconfig.dev.json
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\ref\Marketplace.Server.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.pdb
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.Views.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.Views.pdb
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Client.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Shared.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Client.pdb
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Shared.pdb
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.csproj.AssemblyReference.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.AssemblyInfoInputs.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.AssemblyInfo.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.csproj.CoreCompileInputs.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorAssemblyInfo.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorAssemblyInfo.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\staticwebassets\Marketplace.Server.StaticWebAssets.Manifest.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\staticwebassets\Marketplace.Server.StaticWebAssets.xml
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\scopedcss\bundle\Marketplace.Server.styles.css
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.TagHelpers.input.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.TagHelpers.output.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorCoreGenerate.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorTargetAssemblyInfo.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorTargetAssemblyInfo.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.Views.pdb
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.csproj.CopyComplete
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\ref\Marketplace.Server.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.pdb
+C:\Users\ded\Desktop\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.genruntimeconfig.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\appsettings.Development.json
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\appsettings.json
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Client.StaticWebAssets.xml
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.StaticWebAssets.xml
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.exe
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.deps.json
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.runtimeconfig.json
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.runtimeconfig.dev.json
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\ref\Marketplace.Server.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.pdb
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.Views.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.Views.pdb
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Client.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Shared.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Client.pdb
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Shared.pdb
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.csproj.AssemblyReference.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.AssemblyInfoInputs.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.AssemblyInfo.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.csproj.CoreCompileInputs.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.MvcApplicationPartsAssemblyInfo.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorAssemblyInfo.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorAssemblyInfo.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\staticwebassets\Marketplace.Server.StaticWebAssets.Manifest.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\staticwebassets\Marketplace.Server.StaticWebAssets.xml
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\scopedcss\bundle\Marketplace.Server.styles.css
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.TagHelpers.input.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.TagHelpers.output.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorCoreGenerate.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorTargetAssemblyInfo.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorTargetAssemblyInfo.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.Views.pdb
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.csproj.CopyComplete
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\ref\Marketplace.Server.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.pdb
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.genruntimeconfig.cache

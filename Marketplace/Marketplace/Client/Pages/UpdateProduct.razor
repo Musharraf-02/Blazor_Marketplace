@@ -1,0 +1,122 @@
+﻿@page "/updateProduct"
+<NavigationBar></NavigationBar>
+<div class="container-fluid" style="background-color:white ;">
+    <div class="row p-5" style="background-color: rgb(223, 236, 250);">
+        <div class="col-12 text-center">
+            <h3>Seller Dashboard</h3>
+            <span style="color: rgb(128, 128, 128);"><b>Home / Seller Dashboard</b></span>
+        </div>
+    </div>
+    <div style="background-color:white ;" class="row">
+        <div class="col-12 m-auto">
+            <div class="row">
+                <div class="col-12">
+                    <div class="form px-5 py-0">
+                        <br>
+                        <h4>Update Product Details</h4>
+                        <br>
+                        <div class="row">
+                            <div class="col-md-4 image-upload-wrap">
+                                <input class="file-upload-input" type="file" onchange="readURL(this);"
+                                       accept="image/*">
+                            </div>
+                        </div>
+                        <br>
+                        <form>
+                            <div class="form-group">
+                                <label for="name"><b>Name:</b></label>
+                                <input type="text" class="form-control" id="name" placeholder="Enter product name">
+                            </div>
+                            <div class="form-row">
+                                <div class="form-group col-md-4">
+                                    <label for="price"><b>Price:</b></label>
+                                    <input type="number" class="form-control" id="price"
+                                           placeholder="Enter product price">
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="quantity"><b>Quantity:</b></label>
+                                    <input type="number" class="form-control" id="quantity"
+                                           placeholder="Enter product quantity">
+                                </div>
+                                <div class="form-group col-md-4">
+                                    <label for="catagory"><b>Category:</b></label>
+                                    <select class="form-control" id="catagory">
+                                        <option>Food</option>
+                                        <option>Women</option>
+                                        <option>Men</option>
+                                        <option>Kids</option>
+                                        <option>Mobile</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="description"><b>Description:</b></label>
+                                <textarea class="form-control" rows="3" id="comment"></textarea>
+                            </div>
+                            <br>
+                            <div class="text-center">
+                                <a class="btn btn-primary" href="./sellerDashboard.html">Update Product</a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-md-8 col-12 mx-auto my-4">
+                    <div class="row  my-5">
+                        <div class="col-md-4 col-12 mx-auto">
+                            <img src="./images/logo.jpg">
+                            <h5>Call us</h5>
+                            <h5 style="color:#0069D9 ;">123 456 7890</h5>
+                        </div>
+                        <div class="col-md-4 col-12 mx-auto">
+                            <br>
+                            <span>329 Queensberry Sreet, North Melbourne VIC</span>
+                            <br>
+                            <span>351, Australia.</span>
+                            <br>
+                            <span>support@jobio.com</span>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <div class="row">
+                <div class="col-md-8  col-12 mx-auto my-3">
+                    <span style="color: rgb(128, 128, 128);"><b>©2021 Superio, All Right Reserved.</b></span>
+                </div>
+            </div>
+            <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
+                 aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+                <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLongTitle">
+                                Urban Bags - KeySmart - Premium Key
+                                Holders
+                            </h5>
+                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                            </button>
+                        </div>
+                        <div class="modal-body">
+                            <span> Shop Name: Some Shop Name</span><br>
+                            <span> Shop Address: Some Shop Address</span><br>
+                            <span> Shop Phone: 123 456 7890</span>
+
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@code {
+
+}

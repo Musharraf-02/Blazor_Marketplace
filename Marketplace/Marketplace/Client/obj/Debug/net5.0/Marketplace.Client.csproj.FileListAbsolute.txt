@@ -1,0 +1,1278 @@
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\Marketplace.Client.StaticWebAssets.xml
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\Marketplace.Client.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\ref\Marketplace.Client.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\Marketplace.Client.pdb
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Marketplace.Client.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Marketplace.Client.pdb
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Marketplace.Shared.dll.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Marketplace.Shared.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Marketplace.Shared.pdb
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.csproj.AssemblyReference.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.AssemblyInfoInputs.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.AssemblyInfo.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.csproj.CoreCompileInputs.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.RazorComponent.input.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Register.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.RazorComponent.output.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Marketplace.Client.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.TagHelpers.input.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.TagHelpers.output.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.RazorCoreGenerate.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\Register.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\F1ujLqgY.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+USl2mgX.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ufoOoOjv.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\9JmE0pFo.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\gP5cuT9n.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\XnV7mkKm.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\n8UYf5+v.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\0ccyngbK.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\25UxLmO+.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\mu6nk6ju.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\oQTK8I44.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Zz742syX.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\1xR6sDna.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+EU9qKFi.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\lN2vx0DC.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\3u2S+sqQ.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\E4esruqD.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\t0ba76v2.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Am+oR0i2.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\66UasKzd.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Ftdj9Qqf.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\pRZGbDNT.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\P7SvDCws.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\0BuW7WM4.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\x8iGrfzN.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\kNLgzVuz.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Byug5sf3.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Tqrtpbml.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\lmK1cW4p.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\zwpXjMu3.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\B4MRv4wk.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\QgTfEBon.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\LhKevMlz.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\4c2Smln+.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\TTbVzNHg.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\dNwlJqX+.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\aNlhu+L4.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\oV8QDqax.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\NUdNOsmO.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\gQpZpalF.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\2V9JtRPH.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\RSpOXQGE.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\u5MfCVx+.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\MyprtSrC.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\uG52UQkV.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\lZzNlDOu.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+CWOSHdb.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\8edi1OZE.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\xRk8IT+y.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\gz3Fgqwu.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Kt3Prz+A.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ldSlm2fS.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\tdxScqqd.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\wn+0yRvY.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\SVmpxf4F.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\t9cO+9OG.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\XXP6j+2M.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ayop9F4i.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\eJs9k6Qj.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Xftv+B9Y.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\1MqBCaZn.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\PIt2MZ3L.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\xpf1hXEE.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\1pgPefQx.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\F4+28IXW.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\CfQMZnDz.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\izhb9QJ6.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\E7eZm8Q6.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\nfM94OYz.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\SYGwFg+3.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\n1YC+Emg.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\GXC7AGag.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\LmyVI+S2.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+Khmu8ag.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\5p4Tu7ki.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\G2N+oymd.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+1x8j5jc.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\jzznIPxz.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Sfn4U9m9.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\FRpvp8Ta.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\iBUlj4RX.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\qyuZJ1tm.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\5SzuqORK.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\pcZ45UNF.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\E1svWh2K.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+jDKJhT0.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\0bU8v270.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\5BLhpcRo.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ihx7VbCv.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\iNjX0bm3.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\U5NVv5Lo.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\XTIEfIP2.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\oWOAFRTq.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\MKcSUBhD.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\XDPE2j5y.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\7gwFb8XO.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\sqLHO7X7.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\sa6F8V9g.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\P87qJdbG.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\7QN+k8vE.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\RLunBR5+.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\hRDyXu1+.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\qxQnmw30.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\kB+nUZ0o.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\aaQ4YXLB.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Sh8mjWtv.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\F3ub6OXd.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\vWRPYnlL.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\XmNwLOmh.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\FGYpwtDJ.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\4u3iRrd2.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\T3hoXP5l.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\7c+ooGK+.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\NWCDNrsE.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\p+pWiKaO.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Unz7SS5Y.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Nv3I95Lm.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\L1CHXo9I.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\2Eb0fVMH.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Gm8Oa8Wy.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\wRCWUc4W.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\crlwaC+Y.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\YLC6D6P+.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\OR3Q4A2A.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\h+FqixgN.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\HJ21S9YZ.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Mrn3bGEC.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Dmm0QWdD.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\LzdWDvOr.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ZjZgEDjz.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\MOMeqIDN.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\owvCxlqm.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\a6kmsuvx.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\gG1YiAtt.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\EqfYTBhJ.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\d9fdQlIj.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\4GEgVDEM.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\oGqSOIlq.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\TcnQbp+R.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\solU28Fe.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\TuhVhtxs.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Gu+r+fog.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+W5v8xGR.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\9VvPbN98.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\0cU+iPC4.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+mx+e4LY.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\p9qjCvnZ.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\rn1VjSGn.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\7AUKjlAJ.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\pfA4v7wk.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\qY3TyMIp.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\4dXV7KDC.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\HDy6YyBH.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ue3jtxTo.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\WvkH58OY.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ozPmTJhL.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\xQ+m5K+i.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\td0tfZZE.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\0UDfrkDm.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\e2zhma5+.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\gZPNVzGZ.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\rbdPFTHm.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\spBGBafm.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\2HtNFC38.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\PbhgIeF6.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\lJ77rrs6.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\qCADGIcO.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\f5geq9Q+.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\K4eRpm1w.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+BOreXEz.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\wrs+64Nw.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\tqCwweUX.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Fhu+GXZD.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\10thYAgr.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\mrO+4my9.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\1TrOjd5B.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\AjbgCJ+I.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\u3z+Ddyx.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Kbn8G9jt.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\kg+WUI2X.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\oShmEUOF.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Ic4KKEi8.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\nSi4n1MF.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\9BVKS072.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\z0phISdV.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Plz5V52R.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\mopeN6+F.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\5GDi+oSu.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\1qzW+K+j.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\tvkfu9zz.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\e53QlgU3.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\oDtPsg4s.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\4XMdXRyi.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\1iIW7FtL.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\9ltsxlAH.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\qphs5qF+.gz
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\staticwebassets\Marketplace.Client.StaticWebAssets.Manifest.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\staticwebassets\Marketplace.Client.StaticWebAssets.xml
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\scopedcss\bundle\Marketplace.Client.styles.css
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\scopedcss\projectbundle\Marketplace.Client.bundle.scp.css
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.RazorTargetAssemblyInfo.cache
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.csproj.CopyComplete
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\ref\Marketplace.Client.dll
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.pdb
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Dashboard.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\Dashboard.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\UpdateProduct.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\UpdateProduct.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Product.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\Product.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Controls\NavigationBar.razor.g.cs
+C:\Users\ded\Desktop\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Controls\NavigationBar.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\Marketplace.Client.StaticWebAssets.xml
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\Marketplace.Client.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\ref\Marketplace.Client.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\Marketplace.Client.pdb
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Marketplace.Client.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Marketplace.Client.pdb
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Marketplace.Shared.dll.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Marketplace.Shared.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Marketplace.Shared.pdb
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.csproj.AssemblyReference.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.AssemblyInfoInputs.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.AssemblyInfo.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.csproj.CoreCompileInputs.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.MvcApplicationPartsAssemblyInfo.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.RazorComponent.input.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Controls\NavigationBar.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Dashboard.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Home.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Product.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\Register.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\UpdateProduct.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.RazorComponent.output.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Marketplace.Client.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.TagHelpers.input.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.TagHelpers.output.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.RazorCoreGenerate.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\App.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Controls\NavigationBar.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\Dashboard.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\Home.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\Product.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\Register.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\UpdateProduct.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\F1ujLqgY.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+USl2mgX.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ufoOoOjv.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\9JmE0pFo.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\gP5cuT9n.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\XnV7mkKm.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\n8UYf5+v.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\0ccyngbK.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\25UxLmO+.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\mu6nk6ju.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\oQTK8I44.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Zz742syX.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\1xR6sDna.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+EU9qKFi.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\lN2vx0DC.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\3u2S+sqQ.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\E4esruqD.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\t0ba76v2.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Am+oR0i2.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\66UasKzd.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Ftdj9Qqf.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\pRZGbDNT.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\P7SvDCws.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\0BuW7WM4.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\x8iGrfzN.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\kNLgzVuz.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Byug5sf3.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Tqrtpbml.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\lmK1cW4p.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\zwpXjMu3.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\B4MRv4wk.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\QgTfEBon.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\LhKevMlz.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\4c2Smln+.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\TTbVzNHg.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\dNwlJqX+.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\aNlhu+L4.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\oV8QDqax.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\NUdNOsmO.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\gQpZpalF.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\2V9JtRPH.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\RSpOXQGE.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\u5MfCVx+.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\MyprtSrC.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\uG52UQkV.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\lZzNlDOu.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+CWOSHdb.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\8edi1OZE.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\xRk8IT+y.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\gz3Fgqwu.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Kt3Prz+A.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ldSlm2fS.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\tdxScqqd.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\wn+0yRvY.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\SVmpxf4F.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\t9cO+9OG.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\XXP6j+2M.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ayop9F4i.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\eJs9k6Qj.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Xftv+B9Y.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\1MqBCaZn.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\PIt2MZ3L.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\xpf1hXEE.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\1pgPefQx.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\F4+28IXW.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\CfQMZnDz.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\izhb9QJ6.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\E7eZm8Q6.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\nfM94OYz.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\SYGwFg+3.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\n1YC+Emg.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\GXC7AGag.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\LmyVI+S2.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+Khmu8ag.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\5p4Tu7ki.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\G2N+oymd.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+1x8j5jc.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\jzznIPxz.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Sfn4U9m9.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\FRpvp8Ta.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\iBUlj4RX.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\qyuZJ1tm.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\5SzuqORK.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\pcZ45UNF.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\E1svWh2K.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+jDKJhT0.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\0bU8v270.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\5BLhpcRo.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ihx7VbCv.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\iNjX0bm3.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\U5NVv5Lo.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\XTIEfIP2.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\oWOAFRTq.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\MKcSUBhD.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\XDPE2j5y.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\7gwFb8XO.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\sqLHO7X7.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\sa6F8V9g.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\P87qJdbG.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\7QN+k8vE.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\RLunBR5+.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\hRDyXu1+.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\qxQnmw30.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\kB+nUZ0o.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\aaQ4YXLB.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Sh8mjWtv.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\F3ub6OXd.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\vWRPYnlL.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\XmNwLOmh.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\FGYpwtDJ.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\4u3iRrd2.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\T3hoXP5l.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\7c+ooGK+.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\NWCDNrsE.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\p+pWiKaO.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Unz7SS5Y.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Nv3I95Lm.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\L1CHXo9I.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\2Eb0fVMH.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Gm8Oa8Wy.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\wRCWUc4W.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\crlwaC+Y.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\YLC6D6P+.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\OR3Q4A2A.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\h+FqixgN.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\HJ21S9YZ.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Mrn3bGEC.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Dmm0QWdD.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\LzdWDvOr.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ZjZgEDjz.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\MOMeqIDN.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\owvCxlqm.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\a6kmsuvx.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\gG1YiAtt.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\EqfYTBhJ.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\d9fdQlIj.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\4GEgVDEM.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\oGqSOIlq.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\TcnQbp+R.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\solU28Fe.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\TuhVhtxs.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Gu+r+fog.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+W5v8xGR.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\9VvPbN98.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\0cU+iPC4.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+mx+e4LY.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\p9qjCvnZ.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\rn1VjSGn.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\7AUKjlAJ.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\pfA4v7wk.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\qY3TyMIp.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\4dXV7KDC.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\HDy6YyBH.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ue3jtxTo.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\WvkH58OY.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ozPmTJhL.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\xQ+m5K+i.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\td0tfZZE.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\0UDfrkDm.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\e2zhma5+.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\gZPNVzGZ.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\rbdPFTHm.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\spBGBafm.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\2HtNFC38.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\PbhgIeF6.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\lJ77rrs6.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\qCADGIcO.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\f5geq9Q+.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\K4eRpm1w.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\+BOreXEz.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\wrs+64Nw.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\tqCwweUX.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Fhu+GXZD.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\10thYAgr.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\mrO+4my9.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\1TrOjd5B.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\AjbgCJ+I.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\u3z+Ddyx.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Kbn8G9jt.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\kg+WUI2X.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\oShmEUOF.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Ic4KKEi8.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\nSi4n1MF.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\9BVKS072.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\z0phISdV.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\Plz5V52R.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\mopeN6+F.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\5GDi+oSu.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\1qzW+K+j.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\tvkfu9zz.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\e53QlgU3.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\oDtPsg4s.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\4XMdXRyi.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\1iIW7FtL.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\rC1RKt+9.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\ZgbXmyyz.gz
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\staticwebassets\Marketplace.Client.StaticWebAssets.Manifest.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\staticwebassets\Marketplace.Client.StaticWebAssets.xml
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\scopedcss\bundle\Marketplace.Client.styles.css
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\scopedcss\projectbundle\Marketplace.Client.bundle.scp.css
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.RazorTargetAssemblyInfo.cache
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.csproj.CopyComplete
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\ref\Marketplace.Client.dll
+F:\T.Aship\Web Engineering\Marketplace\Marketplace\Client\obj\Debug\net5.0\Marketplace.Client.pdb
