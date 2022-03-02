@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\T.Aship\\Web Engineering\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj": {}
+    "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj": {}
   },
   "projects": {
-    "F:\\T.Aship\\Web Engineering\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj": {
+    "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\T.Aship\\Web Engineering\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
         "projectName": "Marketplace.Client",
-        "projectPath": "F:\\T.Aship\\Web Engineering\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
-        "packagesPath": "C:\\Users\\ded\\.nuget\\packages\\",
-        "outputPath": "F:\\T.Aship\\Web Engineering\\Marketplace\\Marketplace\\Client\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ded\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\T.Aship\\Web Engineering\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj": {
-                "projectPath": "F:\\T.Aship\\Web Engineering\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj"
+              "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj"
               }
             }
           }
@@ -71,7 +71,7 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
-              "version": "[5.0.9, 5.0.9]"
+              "version": "[5.0.10, 5.0.10]"
             }
           ],
           "frameworkReferences": {
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
@@ -88,17 +88,17 @@
         }
       }
     },
-    "F:\\T.Aship\\Web Engineering\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj": {
+    "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\T.Aship\\Web Engineering\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj",
         "projectName": "Marketplace.Shared",
-        "projectPath": "F:\\T.Aship\\Web Engineering\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj",
-        "packagesPath": "C:\\Users\\ded\\.nuget\\packages\\",
-        "outputPath": "F:\\T.Aship\\Web Engineering\\Marketplace\\Marketplace\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ded\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -138,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
