@@ -16,7 +16,7 @@ namespace Marketplace.Server.Controllers
         [HttpPost]
         public async Task<int> Add(Address address)
         {
-            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketPlaceDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             SqlConnection con = new SqlConnection(connString);
             SqlCommand cmd = new SqlCommand("INSERT INTO Address (address) VALUES(@a)", con);
             SqlParameter a = new SqlParameter("a", address.address);

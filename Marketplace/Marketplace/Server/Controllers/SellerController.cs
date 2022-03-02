@@ -14,11 +14,12 @@ namespace Marketplace.Server.Controllers
     public class SellerController : ControllerBase
     {
         [HttpPost]
+        [ActionName("")]
         public async Task<IActionResult> Add(Seller seller)
         {
-            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketPlaceDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             SqlConnection con = new SqlConnection(connString);
-            SqlCommand cmd = new SqlCommand("INSERT INTO Seller (addressId,emailAddress,shopName,phone,password) VALUES(@aId, @email, @sn, @ph, @pass)", con);
+            SqlCommand cmd = new SqlCommand("INSERT INTO Seller (addressId,emailAddress,shopName,phoneNumber,password) VALUES(@aId, @email, @sn, @ph, @pass)", con);
 
             SqlParameter aId = new SqlParameter("aId", seller.addressId);
             SqlParameter email = new SqlParameter("email", seller.emailAddress);
@@ -39,10 +40,11 @@ namespace Marketplace.Server.Controllers
         }
 
         [HttpGet]
+        [ActionName("")]
         public async Task<IActionResult> Get()
         {
             List<Seller> sellerList = new List<Seller>();
-            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketPlaceDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             SqlConnection con = new SqlConnection(connString);
             SqlCommand cmd = new SqlCommand("Select * from Seller", con);
             con.Open();
@@ -68,7 +70,7 @@ namespace Marketplace.Server.Controllers
         public async Task<IActionResult> Get([FromQuery]string sId)
         {
             List<Seller> sellerList = new List<Seller>();
-            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketPlaceDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             SqlConnection con = new SqlConnection(connString);
             SqlCommand cmd = new SqlCommand("Select * from Seller where id=@i", con);
             SqlParameter id = new SqlParameter("i", Int32.Parse(sId));
@@ -96,7 +98,7 @@ namespace Marketplace.Server.Controllers
         public async Task<IActionResult> GetByAddressId([FromQuery]string addId)
         {
             List<Seller> sellerList = new List<Seller>();
-            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketPlaceDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             SqlConnection con = new SqlConnection(connString);
             SqlCommand cmd = new SqlCommand("Select * from Seller where addressId=@id", con);
             SqlParameter id = new SqlParameter("id",Int32.Parse(addId));
