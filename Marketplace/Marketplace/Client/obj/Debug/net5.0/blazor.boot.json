@@ -195,12 +195,12 @@
       "mscorlib.dll": "sha256-7WjHY56PbksCp7YOxNV59r6MqLujjAH8vhnMJ+zVezY=",
       "netstandard.dll": "sha256-5TcSqPhm3fAT6s3NH7+BMGakcfGgZGd3\/\/cVwVs2VPI=",
       "System.Private.CoreLib.dll": "sha256-VJv3DLM\/G0m\/RnTeWL9X8mkbxlsn8nNRhm0BHYEY+uo=",
-      "Marketplace.Shared.dll": "sha256-xKGwkHEOevAnRlvmghd6lanoasBpBRHmlojFQMYQHhk=",
-      "Marketplace.Client.dll": "sha256-ABPWIUzJvjWLAqY98eJGIHPgvDwbvnZs2MsUx1rIjW8="
+      "Marketplace.Shared.dll": "sha256-kbHPZnXRLaMtAbjRiNJbfHqF8VVxAwBpkmh9bNIuQGU=",
+      "Marketplace.Client.dll": "sha256-Vn3wScCgQdGo8BZEobutv5+9bV6OjOuzkAmh0eK8z50="
     },
     "lazyAssembly": null,
     "pdb": {
-      "Marketplace.Client.pdb": "sha256-BwZH26bc++TncJp71y5iN2JKIblqn7wmp7DclHigghA="
+      "Marketplace.Client.pdb": "sha256-xc0nBZ\/gqdtXKk\/DHcZgTirfE6x2ixgfOVQsTWnVNm8="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-PvlHrby1PYtdX46ITs6pB8iDNqXNcewh8Eoa\/Gm2+GM=",

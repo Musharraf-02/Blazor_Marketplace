@@ -9,12 +9,11 @@ using System.Data.SqlClient;
 
 namespace Marketplace.Server.Controllers
 {
-    [Route("api/[controller]/[action]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class SellerController : ControllerBase
     {
         [HttpPost]
-        [ActionName("")]
         public async Task<IActionResult> Add(Seller seller)
         {
             string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
@@ -40,7 +39,6 @@ namespace Marketplace.Server.Controllers
         }
 
         [HttpGet]
-        [ActionName("")]
         public async Task<IActionResult> Get()
         {
             List<Seller> sellerList = new List<Seller>();
@@ -64,60 +62,5 @@ namespace Marketplace.Server.Controllers
             return Ok(sellerList);
         }
 
-        /* Use this URLhttps://localhost:44371/api/Seller/GetBySellerID?sId=2*/
-        [HttpGet]
-        [ActionName("GetBySellerID")]
-        public async Task<IActionResult> Get([FromQuery]string sId)
-        {
-            List<Seller> sellerList = new List<Seller>();
-            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
-            SqlConnection con = new SqlConnection(connString);
-            SqlCommand cmd = new SqlCommand("Select * from Seller where id=@i", con);
-            SqlParameter id = new SqlParameter("i", Int32.Parse(sId));
-            cmd.Parameters.Add(id);
-            con.Open();
-            SqlDataReader data = cmd.ExecuteReader();
-            while (data.Read())
-            {
-                Seller seller = new Seller();
-                seller.id = data.GetInt32(0);
-                seller.addressId = data.GetInt32(1);
-                seller.emailAddress = data.GetString(2);
-                seller.shopName = data.GetString(3);
-                seller.phoneNumber = data.GetString(4);
-                seller.password = data.GetString(5);
-                sellerList.Add(seller);
-            }
-
-            return Ok(sellerList);
-        }
-
-        /*Use this URLhttps:// localhost:44371/api/Seller/GetByAddressID?addId=1003 */
-        [HttpGet]
-        [ActionName("GetByAddressID")]
-        public async Task<IActionResult> GetByAddressId([FromQuery]string addId)
-        {
-            List<Seller> sellerList = new List<Seller>();
-            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
-            SqlConnection con = new SqlConnection(connString);
-            SqlCommand cmd = new SqlCommand("Select * from Seller where addressId=@id", con);
-            SqlParameter id = new SqlParameter("id",Int32.Parse(addId));
-            cmd.Parameters.Add(id);
-            con.Open();
-            SqlDataReader data = cmd.ExecuteReader();
-            while (data.Read())
-            {
-                Seller seller = new Seller();
-                seller.id = data.GetInt32(0);
-                seller.addressId = data.GetInt32(1);
-                seller.emailAddress = data.GetString(2);
-                seller.shopName = data.GetString(3);
-                seller.phoneNumber = data.GetString(4);
-                seller.password = data.GetString(5);
-                sellerList.Add(seller);
-            }
-
-            return Ok(sellerList);
-        }
     }
 }

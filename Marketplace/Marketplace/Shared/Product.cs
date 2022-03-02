@@ -8,13 +8,13 @@ namespace Marketplace.Shared
 {
     public class Product
     {
-        int id { get; set; }
-        int sellerId { get; set; }
-        string name { get; set; }
-        float price { get; set; }
-        string desc { get; set; }
-        string category { get; set; }
-        string image { get; set; }
+        public int id { get; set; }
+        public int sellerId { get; set; }
+        public string name { get; set; }
+        public double price { get; set; }
+        public string description { get; set; }
+        public string category { get; set; }
+        public string image { get; set; }
 
     }
 }
