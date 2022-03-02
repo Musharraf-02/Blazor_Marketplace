@@ -34,3 +34,15 @@ C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketp
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.dll
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Shared\obj\Debug\net5.0\ref\Marketplace.Shared.dll
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.pdb
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Shared\bin\Debug\net5.0\Marketplace.Shared.deps.json
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Shared\bin\Debug\net5.0\Marketplace.Shared.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Shared\bin\Debug\net5.0\ref\Marketplace.Shared.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Shared\bin\Debug\net5.0\Marketplace.Shared.pdb
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.csproj.AssemblyReference.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.AssemblyInfoInputs.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.AssemblyInfo.cs
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Shared\obj\Debug\net5.0\ref\Marketplace.Shared.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Shared\obj\Debug\net5.0\Marketplace.Shared.pdb

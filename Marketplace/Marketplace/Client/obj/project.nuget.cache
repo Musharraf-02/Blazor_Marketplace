@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GQwcdmxWIq3pwM4wMr5j+y1PZuMWmdU5exHzkbIoMrTCsQhL5yv2v90n1cImaXnU+jvUP7rKUkGe+1PpWvBhzA==",
+  "dgSpecHash": "Gd/m9DSLHdxTE0HYLTQi69KENm61dnPaXfd1pG8ZypI1IMdrgN+hFb+wzirLSY7qagtiT5xVCISgMmk2AeGcUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace Tutorial\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.9\\microsoft.aspnetcore.authorization.5.0.9.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.9\\microsoft.aspnetcore.components.5.0.9.nupkg.sha512",

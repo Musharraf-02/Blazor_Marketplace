@@ -10,7 +10,7 @@ namespace Marketplace.Shared
     {
         public int id { get; set; }
         public int addressId { get; set; }
-        public string emailAdrress { get; set; }
+        public string emailAddress { get; set; }
         public string shopName { get; set; }
         public string phoneNumber { get; set; }
         public string password { get; set; }

@@ -1176,11 +1176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace Tutorial\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
       "projectName": "Marketplace.Client",
-      "projectPath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
+      "projectPath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace Tutorial\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace Tutorial\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1197,8 +1197,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj": {
-              "projectPath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj"
+            "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace Tutorial\\Blazor_Marketplace\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace Tutorial\\Blazor_Marketplace\\Marketplace\\Marketplace\\Shared\\Marketplace.Shared.csproj"
             }
           }
         }
