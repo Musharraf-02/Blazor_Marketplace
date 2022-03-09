@@ -256,3 +256,81 @@ C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplac
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\appsettings.json
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Client.StaticWebAssets.xml
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.StaticWebAssets.xml
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.exe
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.deps.json
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.runtimeconfig.json
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.runtimeconfig.dev.json
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\ref\Marketplace.Server.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.pdb
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.Views.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Server.Views.pdb
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Blazored.SessionStorage.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Client.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Shared.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Client.pdb
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Marketplace.Shared.pdb
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.csproj.AssemblyReference.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.AssemblyInfoInputs.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.AssemblyInfo.cs
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorAssemblyInfo.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorAssemblyInfo.cs
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\staticwebassets\Marketplace.Server.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\staticwebassets\Marketplace.Server.StaticWebAssets.xml
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\scopedcss\bundle\Marketplace.Server.styles.css
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.TagHelpers.input.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.TagHelpers.output.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorCoreGenerate.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.Views.pdb
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.csproj.CopyComplete
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\ref\Marketplace.Server.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.pdb
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial Completed\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.genruntimeconfig.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Blazored.SessionStorage.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll

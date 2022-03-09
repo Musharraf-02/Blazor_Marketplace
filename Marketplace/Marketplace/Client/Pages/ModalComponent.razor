@@ -1,40 +1,73 @@
-﻿@inject Blazored.SessionStorage.ISessionStorageService sessionStorage
-@inject HttpClient Http
+﻿@inject HttpClient Http
 @using Marketplace.Shared
 @using System.Net.Http.Json
+@inject IJSRuntime JsRuntime
 
-<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
-     aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+<div class="modal  @ModalClass" id="exampleModalCenter" tabindex="-1" role="dialog"
+     aria-labelledby="exampleModalCenterTitle" aria-hidden="true" style="display:@ModalDisplay">
     <div class="modal-dialog modal-dialog-centered" role="document">
         <div class="modal-content">
             <div class="modal-header">
                 <h5 class="modal-title" id="exampleModalLongTitle">
-                    Urban Bags - KeySmart - Premium Key
-                    Holders
+                    @productName
                 </h5>
-                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" @onclick="() => Close()">
                     <span aria-hidden="true">&times;</span>
                 </button>
             </div>
             <div class="modal-body">
-                <span> Shop Name: Some Shop Name</span><br>
-                <span> Shop Address: Some Shop Address</span><br>
-                <span> Shop Phone: 123 456 7890</span>
+                <span> Shop Email: @seller.emailAddress</span><br>
+                <span> Shop Address: @sellerAddress.address</span><br>
+                <span> Shop Phone: @seller.phoneNumber</span>
 
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" data-dismiss="modal" @onclick="() => Close()">Close</button>
             </div>
         </div>
     </div>
 </div>
 
+@if (ShowBackdrop)
+{
+    <div class="modal-backdrop fade show"></div>
+}
+
+
 @code {
 
     [Parameter]
-    public int SellerId { get; set; }
+    public int sellerId { get; set; }
 
     [Parameter]
-    public EventCallback<bool> OnClose { get; set; }
+    public string productName { get; set; }
 
+    Seller seller = new Seller();
+    Address sellerAddress = new Address();
+
+    public string ModalDisplay = "none;";
+    public string ModalClass = "";
+    public bool ShowBackdrop = false;
+
+    public void Open()
+    {
+        ModalDisplay = "block;";
+        ModalClass = "Show";
+        ShowBackdrop = true;
+        StateHasChanged();
+    }
+
+    public void Close()
+    {
+        ModalDisplay = "none";
+        ModalClass = "";
+        ShowBackdrop = false;
+        StateHasChanged();
+    }
+
+    protected override async Task OnParametersSetAsync()
+    {
+        seller = await Http.GetFromJsonAsync<Seller>("api/Seller/GetBySellerId?id=" + sellerId);
+        sellerAddress = await Http.GetFromJsonAsync<Address>("api/Address?id=" + seller.addressId);
+    }
 }

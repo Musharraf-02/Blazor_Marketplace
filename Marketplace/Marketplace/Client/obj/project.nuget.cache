@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "asF9rfH3SPeM0vlicF7xadbj5ex9LirSSbdKsv++Rf9JRAH31XF6kNpmpTqczt2rIqARgtQhRXgENzi2oPgoDg==",
+  "dgSpecHash": "9R3uSGC14zyZ1LQ/2AYS1iBp4w3BN7hBwTZJ8inDhZj9KyITH2OAfIm/FFkevUzch4zBCtaeLLzC4QLXYePwlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace Tutorial\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\blazored.sessionstorage\\2.2.0\\blazored.sessionstorage.2.2.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.9\\microsoft.aspnetcore.authorization.5.0.9.nupkg.sha512",
