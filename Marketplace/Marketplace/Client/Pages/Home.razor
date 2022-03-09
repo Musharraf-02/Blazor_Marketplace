@@ -1,4 +1,7 @@
 ﻿@page "/"
+@inject HttpClient Http
+@using Marketplace.Shared
+@using System.Net.Http.Json
 <NavigationBar></NavigationBar>
 <div class="container-fluid" style="background-color:white ;">
     <div class="row p-5" style="background-color: rgb(223, 236, 250);">
@@ -10,92 +13,20 @@
     <div style="background-color:white ;" class="row">
         <div class=" col-8 m-auto">
             <div class="row my-4 ">
-                <div class="card col-xl-3 col-lg-4 col-md-6 col-sm-6 p-2  mx-auto my-2">
-                    <img src="./images/album.jpg" class="card-img-top" height="250px">
-                    <div class="card-body p text-center">
-                        <h6>Album</h6>
-                        <span style="color: rgb(128, 128, 128)">$21.99</span>
+                @foreach (Product product in products)
+                {<div class="card col-xl-3 p-2 col-lg-4 col-md-6 col-sm-6 mx-auto my-2">
+                        <img src="https://localhost:44371/api/UploadedFile?imageName=@product.image" class="card-img-top" height="250px">
+                        <div class=" card-body p text-center">
+                            <h6>@product.name</h6>
+                            <a class="btn btn-primary" href="/product/@product.id">
+                                View Details
+                            </a>
+                        </div>
                     </div>
-                </div>
-                <div class="card col-xl-3 p-2 col-lg-4 col-md-6 col-sm-6 mx-auto my-2">
-                    <img src="./images/upper.jpg" class="card-img-top" height="250px">
-                    <div class=" card-body p text-center">
-                        <a class="btn btn-primary" href="./shop_single.html">
-                            <i class="fa fa-shopping-bag mr-3"
-                               aria-hidden="true"></i>View Details
-                        </a>
-                    </div>
-                </div>
-                <div class="card col-xl-3 p-2 col-lg-4 col-md-6  col-sm-6 mx-auto my-2">
-                    <img src="./images/benie.jpg" class="card-img-top" height="250px">
-                    <div class="card-body p text-center">
-                        <h6>Benie</h6>
-                        <span style="color: rgb(128, 128, 128)">$21.99</span>
-                    </div>
-                </div>
-                <div class="card  col-xl-3  p-2 col-lg-4 col-md-6 col-sm-6 mx-auto my-2 ">
-                    <img src="./images/beniewithlogo.jpg" class="card-img-top" height="250px">
-                    <div class="card-body p text-center">
-                        <h6>Benie with Logo</h6>
-                        <span style="color: rgb(128, 128, 128)">$21.99</span>
-                    </div>
-                </div>
-                <div class="card col-xl-3 p-2 col-lg-4 col-md-6 col-sm-6 mx-auto my-2">
-                    <img src="./images/cap.jpg" class="card-img-top" height="250px">
-                    <div class="card-body p text-center">
-                        <h6>Cap</h6>
-                        <span style="color: rgb(128, 128, 128)">$21.99</span>
-                    </div>
-                </div>
-                <div class="card col-xl-3 p-2 col-lg-4 col-md-6 col-sm-6 mx-auto my-2">
-                    <img src="./images/belt.jpg" class="card-img-top" height="250px">
-                    <div class="card-body p text-center">
-                        <h6>Belt</h6>
-                        <span style="color: rgb(128, 128, 128)">$21.99</span>
-                    </div>
-                </div>
-                <div class="card col-xl-3 p-2 col-lg-4 col-md-6 col-sm-6 mx-auto my-2">
-                    <img src="./images/hoodie.jpg" class="card-img-top" height="250px">
-                    <div class="card-body p text-center">
-                        <h6>Hoodie with Zipper</h6>
-                        <span style="color: rgb(128, 128, 128)">$21.99</span>
-                    </div>
-                </div>
-                <div class="card col-xl-3 p-2 col-lg-4  col-md-6 col-sm-6 mx-auto my-2">
-                    <img src="./images/hoodiewithzipper.jpg" class="card-img-top" height="250px">
-                    <div class="card-body p text-center">
-                        <h6></h6>
-                        <span style="color: rgb(128, 128, 128)">$21.99</span>
-                    </div>
-                </div>
-                <div class="card col-xl-3 p-2 col-lg-4 col-md-6 col-sm-6 mx-auto my-2">
-                    <img src="./images/longsleevetee.jpg" class="card-img-top" height="250px">
-                    <div class="card-body p text-center">
-                        <h6>Long Sleeve Tee</h6>
-                        <span style="color: rgb(128, 128, 128)">$21.99</span>
-                    </div>
-                </div>
-                <div class="card col-xl-3 p-2 col-lg-4 col-md-6 col-sm-6 mx-auto my-2">
-                    <img src="./images/benie.jpg" class="card-img-top" height="250px">
-                    <div class="card-body p text-center">
-                        <h6>Hoodie with Logo</h6>
-                        <span style="color: rgb(128, 128, 128)">$21.99</span>
-                    </div>
-                </div>
-                <div class="card col-xl-3 p-2 col-lg-4 col-md-6 col-sm-6 mx-auto my-2">
-                    <img src="./images/album.jpg" class="card-img-top" height="250px">
-                    <div class="card-body p text-center">
-                        <h6>Benie</h6>
-                        <span style="color: rgb(128, 128, 128)">$21.99</span>
-                    </div>
-                </div>
-                <div class="card col-xl-3 p-2 col-lg-4 col-md-6 col-sm-6 mx-auto my-2">
-                    <img src="./images/belt.jpg" class="card-img-top" height="250px">
-                    <div class="card-body p text-center">
-                        <h6>Belt</h6>
-                        <span style="color: rgb(128, 128, 128)">$21.99</span>
-                    </div>
-                </div>
+                }
+
+
+
             </div>
         </div>
     </div>
@@ -136,5 +67,9 @@
 </div>
 
 @code {
-
+    List<Product> products = new List<Product>();
+    protected override async Task OnInitializedAsync()
+    {
+        products = await Http.GetFromJsonAsync<List<Product>>("api/Product");
+    }
 }

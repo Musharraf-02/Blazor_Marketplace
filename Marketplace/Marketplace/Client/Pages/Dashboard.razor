@@ -1,5 +1,14 @@
 ﻿@page "/dashboard"
+@inject Blazored.SessionStorage.ISessionStorageService sessionStorage
+@inject HttpClient Http
+@using Marketplace.Shared
+@using System.Net.Http.Json
+@using System.IO
+@inject IJSRuntime JsRuntime
+
+
 <NavigationBar></NavigationBar>
+
 <div class="container-fluid" style="background-color:white ;">
     <div class="row p-5" style="background-color: rgb(223, 236, 250);">
         <div class="col-12 text-center">
@@ -23,142 +32,79 @@
                                     <tr class="bg-dark text-light">
                                         <th>Name</th>
                                         <th>Category</th>
-                                        <th>Quantity</th>
                                         <th>Price</th>
+                                        <th>Description</th>
                                         <th>Action</th>
                                     </tr>
                                 </thead>
                                 <tbody class="bg-light text-dark">
-                                    <tr>
-                                        <td>Black Shoes</td>
-                                        <td>Men</td>
-                                        <td>10</td>
-                                        <td>Rs. 1999</td>
-                                        <td>
-                                            <a href="updateProduct.html" class="btn btn-warning"
-                                               role="button">Update</a>
-                                            <button class="btn btn-danger">Delete</button>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Red T-Shirt</td>
-                                        <td>Men</td>
-                                        <td>20</td>
-                                        <td>Rs. 799</td>
-                                        <td>
-                                            <a href="updateProduct.html" class="btn btn-warning"
-                                               role="button">Update</a>
-                                            <button class="btn btn-danger">Delete</button>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Red T-Shirt</td>
-                                        <td>Men</td>
-                                        <td>20</td>
-                                        <td>Rs. 799</td>
-                                        <td>
-                                            <a href="updateProduct.html" class="btn btn-warning"
-                                               role="button">Update</a>
-                                            <button class="btn btn-danger">Delete</button>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Red T-Shirt</td>
-                                        <td>Men</td>
-                                        <td>20</td>
-                                        <td>Rs. 799</td>
-                                        <td>
-                                            <a href="updateProduct.html" class="btn btn-warning"
-                                               role="button">Update</a>
-                                            <button class="btn btn-danger">Delete</button>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Red T-Shirt</td>
-                                        <td>Men</td>
-                                        <td>20</td>
-                                        <td>Rs. 799</td>
-                                        <td>
-                                            <a href="updateProduct.html" class="btn btn-warning"
-                                               role="button">Update</a>
-                                            <button class="btn btn-danger">Delete</button>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Black Shoes</td>
-                                        <td>Men</td>
-                                        <td>10</td>
-                                        <td>Rs. 1999</td>
-                                        <td>
-                                            <a href="updateProduct.html" class="btn btn-warning"
-                                               role="button">Update</a>
-                                            <button class="btn btn-danger">Delete</button>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td>Black Shoes</td>
-                                        <td>Men</td>
-                                        <td>10</td>
-                                        <td>Rs. 1999</td>
-                                        <td>
-                                            <a href="updateProduct.html" class="btn btn-warning"
-                                               role="button">Update</a>
-                                            <button class="btn btn-danger">Delete</button>
-                                        </td>
-                                    </tr>
+                                    @foreach (Product product in products)
+                                    {
+                                        <tr>
+                                            <td>@product.name</td>
+                                            <td>@product.category</td>
+                                            <td>@product.price</td>
+                                            <td>@product.description</td>
+                                            <td>
+                                                <a href="/updateProduct/@product.id" class="btn btn-warning"
+                                                   role="button">Update</a>
+                                                <button class="btn btn-danger" @onclick="(()=>DeleteProduct(product.id))">Delete</button>
+                                            </td>
+                                        </tr>
+                                    }
+
+
+
                                 </tbody>
                             </table>
                         </div>
                     </div>
-                    <div class="form px-5 py-0">
+                    <EditForm Model="form" OnSubmit="submitRequest">
                         <br>
                         <h4>Enter Product Details</h4>
                         <br>
                         <div class="row">
                             <div class="col-md-4 image-upload-wrap">
-                                <input class="file-upload-input" type="file" onchange="readURL(this);"
-                                       accept="image/*">
+                                <InputFile OnChange="e => LoadFiles(e)"></InputFile>
                             </div>
                         </div>
                         <br>
-                        <form>
+                        
                             <div class="form-group">
                                 <label for="name"><b>Name:</b></label>
-                                <input type="text" class="form-control" id="name" placeholder="Enter product name">
+                                <InputText @bind-Value="form.name" class="form-control" id="name" placeholder="Enter product name"></InputText>
                             </div>
                             <div class="form-row">
                                 <div class="form-group col-md-4">
                                     <label for="price"><b>Price:</b></label>
-                                    <input type="number" class="form-control" id="price"
-                                           placeholder="Enter product price">
+                                    <InputNumber @bind-Value="form.price" class="form-control" id="price"
+                                           placeholder="Enter product price"></InputNumber>
                                 </div>
-                                <div class="form-group col-md-4">
-                                    <label for="quantity"><b>Quantity:</b></label>
-                                    <input type="number" class="form-control" id="quantity"
-                                           placeholder="Enter product quantity">
-                                </div>
+
                                 <div class="form-group col-md-4">
                                     <label for="catagory"><b>Category:</b></label>
-                                    <select class="form-control" id="catagory">
+                                    <select @bind="form.category" class="form-control" id="catagory">
                                         <option>Food</option>
                                         <option>Women</option>
                                         <option>Men</option>
                                         <option>Kids</option>
                                         <option>Mobile</option>
+                                        <option>Toys</option>
                                     </select>
                                 </div>
                             </div>
                             <div class="form-group">
                                 <label for="description"><b>Description:</b></label>
-                                <textarea class="form-control" rows="3" id="comment"></textarea>
+                                <InputTextArea @bind-Value="form.description" class="form-control" rows="3" id="comment"></InputTextArea>
                             </div>
                             <br>
                             <div class="text-center">
-                                <button class="btn btn-primary">Add Product</button>
+                                <button type="submit" class="btn btn-primary">Add Product</button>
                             </div>
-                        </form>
-                    </div>
+                        
+                    </EditForm>
                 </div>
+
             </div>
             <hr>
             <div class="row">
@@ -187,35 +133,52 @@
                     <span style="color: rgb(128, 128, 128);"><b>©2021 Superio, All Right Reserved.</b></span>
                 </div>
             </div>
-            <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog"
-                 aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-                <div class="modal-dialog modal-dialog-centered" role="document">
-                    <div class="modal-content">
-                        <div class="modal-header">
-                            <h5 class="modal-title" id="exampleModalLongTitle">
-                                Urban Bags - KeySmart - Premium Key
-                                Holders
-                            </h5>
-                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                <span aria-hidden="true">&times;</span>
-                            </button>
-                        </div>
-                        <div class="modal-body">
-                            <span> Shop Name: Some Shop Name</span><br>
-                            <span> Shop Address: Some Shop Address</span><br>
-                            <span> Shop Phone: 123 456 7890</span>
-
-                        </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+            
     </div>
 </div>
+    </div>
 
 @code {
+    Product form = new Product();
+    List<Product> products = new List<Product>();
+    IBrowserFile selectedFile;
+    int sellerID;
 
+    protected override async Task OnInitializedAsync()
+    {
+        sellerID = Int32.Parse(await sessionStorage.GetItemAsync<string>("sellerID"));
+        products = await Http.GetFromJsonAsync<List<Product>>("api/Product/GetBySellerID?sId=" + sellerID);
+    }
+
+    public async Task LoadFiles(InputFileChangeEventArgs e)
+    {
+        selectedFile = e.File;
+    }
+
+    async void submitRequest()
+    {
+        Stream stream = selectedFile.OpenReadStream();
+        MemoryStream ms = new MemoryStream();
+        await stream.CopyToAsync(ms);
+        stream.Close();
+
+        UploadedFile uploadedFile = new UploadedFile();
+        uploadedFile.FileName = DateTime.Now.ToString("yymmssfff") + selectedFile.Name;
+        uploadedFile.FileContent = ms.ToArray();
+        ms.Close();
+
+        await Http.PostAsJsonAsync<UploadedFile>("/api/UploadedFile", uploadedFile);
+        form.image = uploadedFile.FileName;
+        form.sellerId = sellerID;
+
+        await Http.PostAsJsonAsync<Product>("/api/Product", form);
+
+    }
+
+    async void DeleteProduct(int id)
+    {
+        await Http.DeleteAsync($"api/Product?id={id}");
+        products = await Http.GetFromJsonAsync<List<Product>>("api/Product/GetBySellerID?sId=" + sellerID);
+        await InvokeAsync(() => StateHasChanged());
+    }
 }

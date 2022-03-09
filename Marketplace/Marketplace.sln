@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Server", "Marketplace\Server\Marketplace.Server.csproj", "{03FAC359-80F6-41DD-8136-D3A6957A7E27}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketplace.Server", "Marketplace\Server\Marketplace.Server.csproj", "{03FAC359-80F6-41DD-8136-D3A6957A7E27}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Client", "Marketplace\Client\Marketplace.Client.csproj", "{AF38682E-FB13-45F5-ABD6-CF52281B9A2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketplace.Client", "Marketplace\Client\Marketplace.Client.csproj", "{AF38682E-FB13-45F5-ABD6-CF52281B9A2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marketplace.Shared", "Marketplace\Shared\Marketplace.Shared.csproj", "{356B1AA3-9372-412D-B8A0-B176D2B027F6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Marketplace.Shared", "Marketplace\Shared\Marketplace.Shared.csproj", "{356B1AA3-9372-412D-B8A0-B176D2B027F6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

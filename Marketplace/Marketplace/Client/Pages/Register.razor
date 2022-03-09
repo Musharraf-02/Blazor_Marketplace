@@ -1,4 +1,7 @@
 ﻿@page "/register"
+@using Marketplace.Shared
+@inject HttpClient Http
+@using System.Net.Http.Json
 <NavigationBar></NavigationBar>
 <div class="container-fluid">
     <div class="row">
@@ -7,32 +10,30 @@
                 <div class="col-md-6 col-12 mx-auto">
                     <h4>Create a Free Superio Mart Account</h4>
                     <br>
-
-
-                    <form>
+                    <EditForm Model="form" OnSubmit="submitRequest">
                         <div class="form-group input-group-lg">
                             <label><b>Email Address</b></label>
-                            <input type="email" class="form-control" style="border-color: #0069D9;">
+                            <InputText @bind-Value="form.seller.emailAddress" type="email" class="form-control" style="border-color: #0069D9;"></InputText>
                         </div>
                         <div class="form-group input-group-lg">
                             <label><b>Shop Name</b></label>
-                            <input type="text" class="form-control" style="border-color: #0069D9;">
+                            <InputText @bind-Value="form.seller.shopName" type="text" class="form-control" style="border-color: #0069D9;"></InputText>
                         </div>
                         <div class="form-group input-group-lg">
                             <label><b>Address</b></label>
-                            <input type="text" class="form-control" style="border-color: #0069D9;">
+                            <InputText @bind-Value="form.formAddress.address" type="text" class="form-control" style="border-color: #0069D9;"></InputText>
                         </div>
                         <div class="form-group input-group-lg">
                             <label><b>Phone No</b></label>
-                            <input type="tel" class="form-control" style="border-color: #0069D9;">
+                            <InputText @bind-Value="form.seller.phoneNumber" type="tel" class="form-control" style="border-color: #0069D9;"></InputText>
                         </div>
                         <div class="form-group input-group-lg">
                             <label><b>Password</b></label>
-                            <input type="password" class="form-control "
-                                   style="background-color:rgb(223, 236, 250) ;">
+                            <InputText @bind-Value="form.seller.password" type="password" class="form-control "
+                                       style="background-color:rgb(223, 236, 250) ;"></InputText>
                         </div>
-                        <button class="btn btn-primary btn-block px-5 py-3">Register</button>
-                    </form>
+                        <button class="btn btn-primary btn-block px-5 py-3" type="submit">Register</button>
+                    </EditForm>
                 </div>
             </div>
         </div>
@@ -41,4 +42,19 @@
 
 @code {
 
+    public class SellerForm
+    {
+        public Seller seller = new Seller();
+        public Address formAddress = new Address();
+    }
+
+    SellerForm form = new SellerForm();
+
+    async void submitRequest()
+    {
+        var response= await Http.PostAsJsonAsync<Address>("api/Address", form.formAddress);
+        int addId=Int32.Parse(await response.Content.ReadAsStringAsync());
+        form.seller.addressId = addId;
+        await Http.PostAsJsonAsync<Seller>("api/Seller", form.seller);
+    }
 }

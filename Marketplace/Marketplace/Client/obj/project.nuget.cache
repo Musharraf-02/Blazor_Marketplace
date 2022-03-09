@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Gd/m9DSLHdxTE0HYLTQi69KENm61dnPaXfd1pG8ZypI1IMdrgN+hFb+wzirLSY7qagtiT5xVCISgMmk2AeGcUg==",
+  "dgSpecHash": "asF9rfH3SPeM0vlicF7xadbj5ex9LirSSbdKsv++Rf9JRAH31XF6kNpmpTqczt2rIqARgtQhRXgENzi2oPgoDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS\\PUCIT Files\\Web Engineering\\MarketPlace Tutorial\\Blazor_Marketplace\\Marketplace\\Marketplace\\Client\\Marketplace.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\blazored.sessionstorage\\2.2.0\\blazored.sessionstorage.2.2.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.9\\microsoft.aspnetcore.authorization.5.0.9.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.9\\microsoft.aspnetcore.components.5.0.9.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.9\\microsoft.aspnetcore.components.analyzers.5.0.9.nupkg.sha512",
@@ -28,6 +29,8 @@
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.jsinterop\\5.0.9\\microsoft.jsinterop.5.0.9.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.9\\microsoft.jsinterop.webassembly.5.0.9.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.10\\microsoft.netcore.app.runtime.browser-wasm.5.0.10.nupkg.sha512"

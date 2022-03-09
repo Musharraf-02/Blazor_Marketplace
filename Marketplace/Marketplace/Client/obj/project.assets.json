@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Blazored.SessionStorage/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "5.0.5"
+        },
+        "compile": {
+          "lib/net5.0/Blazored.SessionStorage.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Blazored.SessionStorage.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/5.0.9": {
         "type": "package",
         "dependencies": {
@@ -288,6 +300,49 @@
           "lib/net5.0/Microsoft.JSInterop.WebAssembly.dll": {}
         }
       },
+      "Microsoft.Win32.SystemEvents/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll": {}
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
+      "System.Drawing.Common/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "6.0.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/System.Drawing.Common.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/System.Drawing.Common.dll": {}
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp3.1/System.Drawing.Common.dll": {
+            "assetType": "runtime",
+            "rid": "unix"
+          },
+          "runtimes/win/lib/netcoreapp3.1/System.Drawing.Common.dll": {
+            "assetType": "runtime",
+            "rid": "win"
+          }
+        }
+      },
       "System.IO.Pipelines/5.0.1": {
         "type": "package",
         "compile": {
@@ -309,6 +364,10 @@
       "Marketplace.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Blazored.SessionStorage": "2.2.0",
+          "System.Drawing.Common": "6.0.0"
+        },
         "compile": {
           "bin/placeholder/Marketplace.Shared.dll": {}
         },
@@ -318,6 +377,18 @@
       }
     },
     "net5.0/browser-wasm": {
+      "Blazored.SessionStorage/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "5.0.5"
+        },
+        "compile": {
+          "lib/net5.0/Blazored.SessionStorage.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Blazored.SessionStorage.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Authorization/5.0.9": {
         "type": "package",
         "dependencies": {
@@ -604,6 +675,33 @@
           "lib/net5.0/Microsoft.JSInterop.WebAssembly.dll": {}
         }
       },
+      "Microsoft.Win32.SystemEvents/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll": {}
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "System.Drawing.Common/6.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "6.0.0"
+        },
+        "compile": {
+          "lib/netcoreapp3.1/System.Drawing.Common.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/System.Drawing.Common.dll": {}
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
       "System.IO.Pipelines/5.0.1": {
         "type": "package",
         "compile": {
@@ -625,6 +723,10 @@
       "Marketplace.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Blazored.SessionStorage": "2.2.0",
+          "System.Drawing.Common": "6.0.0"
+        },
         "compile": {
           "bin/placeholder/Marketplace.Shared.dll": {}
         },
@@ -635,6 +737,20 @@
     }
   },
   "libraries": {
+    "Blazored.SessionStorage/2.2.0": {
+      "sha512": "2iVrDbv30kuufV0CGjNkQgVReH/aSfDlyqnYTXyoFIFwtrSnMS+pqx5tLFAoigLXn/imSQHPZkVnOArLZYefXg==",
+      "type": "package",
+      "path": "blazored.sessionstorage/2.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "blazored.sessionstorage.2.2.0.nupkg.sha512",
+        "blazored.sessionstorage.nuspec",
+        "icon.png",
+        "lib/net5.0/Blazored.SessionStorage.dll",
+        "lib/netstandard2.1/Blazored.SessionStorage.dll"
+      ]
+    },
     "Microsoft.AspNetCore.Authorization/5.0.9": {
       "sha512": "fS4eD0OPTj29/8xnGybpbsre6OUFoeHX5J1HTSS6o/jmOYOaSyW+C0m/cmJSoVdl2VFaF0ZPggi2ATzYBYzq6w==",
       "type": "package",
@@ -1108,6 +1224,74 @@
         "microsoft.jsinterop.webassembly.nuspec"
       ]
     },
+    "Microsoft.Win32.SystemEvents/6.0.0": {
+      "sha512": "hqTM5628jSsQiv+HGpiq3WKBl2c8v1KZfby2J6Pr7pEPlK9waPdgEO6b8A/+/xn/yZ9ulv8HuqK71ONy2tg67A==",
+      "type": "package",
+      "path": "microsoft.win32.systemevents/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/Microsoft.Win32.SystemEvents.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/Microsoft.Win32.SystemEvents.dll",
+        "lib/net461/Microsoft.Win32.SystemEvents.xml",
+        "lib/net6.0/Microsoft.Win32.SystemEvents.dll",
+        "lib/net6.0/Microsoft.Win32.SystemEvents.xml",
+        "lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll",
+        "lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.xml",
+        "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll",
+        "lib/netstandard2.0/Microsoft.Win32.SystemEvents.xml",
+        "microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+        "microsoft.win32.systemevents.nuspec",
+        "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll",
+        "runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.xml",
+        "runtimes/win/lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.dll",
+        "runtimes/win/lib/netcoreapp3.1/Microsoft.Win32.SystemEvents.xml",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "System.Drawing.Common/6.0.0": {
+      "sha512": "NfuoKUiP2nUWwKZN6twGqXioIe1zVD0RIj2t976A+czLHr2nY454RwwXs6JU9Htc6mwqL6Dn/nEL3dpVf2jOhg==",
+      "type": "package",
+      "path": "system.drawing.common/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/System.Drawing.Common.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net461/System.Drawing.Common.dll",
+        "lib/net461/System.Drawing.Common.xml",
+        "lib/net6.0/System.Drawing.Common.dll",
+        "lib/net6.0/System.Drawing.Common.xml",
+        "lib/netcoreapp3.1/System.Drawing.Common.dll",
+        "lib/netcoreapp3.1/System.Drawing.Common.xml",
+        "lib/netstandard2.0/System.Drawing.Common.dll",
+        "lib/netstandard2.0/System.Drawing.Common.xml",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "runtimes/unix/lib/net6.0/System.Drawing.Common.dll",
+        "runtimes/unix/lib/net6.0/System.Drawing.Common.xml",
+        "runtimes/unix/lib/netcoreapp3.1/System.Drawing.Common.dll",
+        "runtimes/unix/lib/netcoreapp3.1/System.Drawing.Common.xml",
+        "runtimes/win/lib/net6.0/System.Drawing.Common.dll",
+        "runtimes/win/lib/net6.0/System.Drawing.Common.xml",
+        "runtimes/win/lib/netcoreapp3.1/System.Drawing.Common.dll",
+        "runtimes/win/lib/netcoreapp3.1/System.Drawing.Common.xml",
+        "system.drawing.common.6.0.0.nupkg.sha512",
+        "system.drawing.common.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
     "System.IO.Pipelines/5.0.1": {
       "sha512": "qEePWsaq9LoEEIqhbGe6D5J8c9IqQOUuTzzV6wn1POlfdLkJliZY3OlB0j0f17uMWlqZYjH7txj+2YbyrIA8Yg==",
       "type": "package",
@@ -1164,9 +1348,11 @@
   },
   "projectFileDependencyGroups": {
     "net5.0": [
+      "Blazored.SessionStorage >= 2.2.0",
       "Marketplace.Shared >= 1.0.0",
       "Microsoft.AspNetCore.Components.WebAssembly >= 5.0.9",
       "Microsoft.AspNetCore.Components.WebAssembly.DevServer >= 5.0.9",
+      "System.Drawing.Common >= 6.0.0",
       "System.Net.Http.Json >= 5.0.0"
     ]
   },
@@ -1213,6 +1399,10 @@
       "net5.0": {
         "targetAlias": "net5.0",
         "dependencies": {
+          "Blazored.SessionStorage": {
+            "target": "Package",
+            "version": "[2.2.0, )"
+          },
           "Microsoft.AspNetCore.Components.WebAssembly": {
             "target": "Package",
             "version": "[5.0.9, )"
@@ -1221,6 +1411,10 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[5.0.9, )"
+          },
+          "System.Drawing.Common": {
+            "target": "Package",
+            "version": "[6.0.0, )"
           },
           "System.Net.Http.Json": {
             "target": "Package",

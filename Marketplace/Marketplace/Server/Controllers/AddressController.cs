@@ -31,5 +31,33 @@ namespace Marketplace.Server.Controllers
             return data.GetInt32(0);
           
         }
+
+        [HttpGet]
+        public async Task<IActionResult> Get([FromQuery] string id)
+        {
+
+            string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+            SqlConnection con = new SqlConnection(connString);
+            SqlCommand cmd = new SqlCommand("Select * from Address where id=@i", con);
+            SqlParameter i = new SqlParameter("i", Int32.Parse(id));
+
+            cmd.Parameters.Add(i);
+            con.Open();
+
+            Address address = new Address();
+
+            try
+            {
+                SqlDataReader data = cmd.ExecuteReader();
+                data.Read();
+                address.id = data.GetInt32(0);
+                address.address = data.GetString(1);
+            }
+            catch
+            {
+                address.id = -1;
+            }
+            return Ok(address);
+        }
     }
 }

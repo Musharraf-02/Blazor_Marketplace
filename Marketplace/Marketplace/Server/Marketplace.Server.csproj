@@ -5,13 +5,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Blazored.SessionStorage" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="5.0.9" />
     <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+    <PackageReference Include="System.Drawing.Common" Version="6.0.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Client\Marketplace.Client.csproj" />
     <ProjectReference Include="..\Shared\Marketplace.Shared.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
   </ItemGroup>
 
 

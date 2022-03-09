@@ -1,4 +1,10 @@
-﻿@page "/updateProduct"
+﻿@page "/updateProduct/{id:int}"
+@inject HttpClient Http
+@using Marketplace.Shared
+@using System.Net.Http.Json
+@using System.IO
+@inject NavigationManager NavManager
+
 <NavigationBar></NavigationBar>
 <div class="container-fluid" style="background-color:white ;">
     <div class="row p-5" style="background-color: rgb(223, 236, 250);">
@@ -11,36 +17,35 @@
         <div class="col-12 m-auto">
             <div class="row">
                 <div class="col-12">
-                    <div class="form px-5 py-0">
+                    <div class="newProduct px-5 py-0">
                         <br>
                         <h4>Update Product Details</h4>
                         <br>
-                        <div class="row">
-                            <div class="col-md-4 image-upload-wrap">
-                                <input class="file-upload-input" type="file" onchange="readURL(this);"
-                                       accept="image/*">
-                            </div>
-                        </div>
+
                         <br>
-                        <form>
+                        <EditForm Model="newProduct">
                             <div class="form-group">
                                 <label for="name"><b>Name:</b></label>
-                                <input type="text" class="form-control" id="name" placeholder="Enter product name">
+                                <InputText @bind-Value="newProduct.name" class="form-control" id="name" placeholder="Enter product name"></InputText>
                             </div>
+
+                            <div class="row">
+                                <div class="col-md-4 image-upload-wrap">
+                                    <InputFile class="file-upload-input" type="file" OnChange="e => LoadFiles(e)"
+                                               accept="image/*"></InputFile>
+                                </div>
+                            </div>
+
                             <div class="form-row">
                                 <div class="form-group col-md-4">
                                     <label for="price"><b>Price:</b></label>
-                                    <input type="number" class="form-control" id="price"
-                                           placeholder="Enter product price">
+                                    <InputNumber @bind-Value="newProduct.price" class="form-control" id="price"
+                                                 placeholder="Enter product price"></InputNumber>
                                 </div>
-                                <div class="form-group col-md-4">
-                                    <label for="quantity"><b>Quantity:</b></label>
-                                    <input type="number" class="form-control" id="quantity"
-                                           placeholder="Enter product quantity">
-                                </div>
+
                                 <div class="form-group col-md-4">
                                     <label for="catagory"><b>Category:</b></label>
-                                    <select class="form-control" id="catagory">
+                                    <select @bind="newProduct.category" class="form-control" id="catagory">
                                         <option>Food</option>
                                         <option>Women</option>
                                         <option>Men</option>
@@ -51,13 +56,13 @@
                             </div>
                             <div class="form-group">
                                 <label for="description"><b>Description:</b></label>
-                                <textarea class="form-control" rows="3" id="comment"></textarea>
+                                <InputTextArea @bind-Value="newProduct.description" class="form-control" rows="3" id="comment"></InputTextArea>
                             </div>
                             <br>
                             <div class="text-center">
-                                <a class="btn btn-primary" href="./sellerDashboard.html">Update Product</a>
+                                <a class="btn btn-primary" @onclick="updateProd">Update Product</a>
                             </div>
-                        </form>
+                        </EditForm>
                     </div>
                 </div>
             </div>
@@ -118,5 +123,75 @@
 </div>
 
 @code {
+    [Parameter]
+    public int id { get; set; }
 
+    IBrowserFile selectedFile;
+
+    Product newProduct = new Product();
+    Product oldProd = new Product();
+
+    protected override async Task OnInitializedAsync()
+    {
+        oldProd = await Http.GetFromJsonAsync<Product>("api/Product/GetByProductID?pId=" + id);
+        newProduct.id = oldProd.id;
+        newProduct.sellerId = oldProd.sellerId;
+        newProduct.image = oldProd.image;
+        newProduct.name = oldProd.name;
+        newProduct.price = oldProd.price;
+        newProduct.description = oldProd.description;
+        newProduct.category = oldProd.category;
+    }
+
+    async void updateProd()
+    {
+        newProduct.id = oldProd.id;
+        newProduct.sellerId = oldProd.sellerId;
+
+        if (selectedFile != null)
+        {
+            Stream stream = selectedFile.OpenReadStream();
+            MemoryStream ms = new MemoryStream();
+            await stream.CopyToAsync(ms);
+            stream.Close();
+
+            UploadedFile uploadedFile = new UploadedFile();
+            uploadedFile.FileName = DateTime.Now.ToString("yymmssfff") + selectedFile.Name;
+            uploadedFile.FileContent = ms.ToArray();
+            ms.Close();
+
+            await Http.PostAsJsonAsync<UploadedFile>("/api/UploadedFile", uploadedFile);
+            newProduct.image = uploadedFile.FileName;
+        }
+
+        else
+        {
+            newProduct.image = oldProd.image;
+        }
+
+        if (newProduct.name == "")
+        {
+            newProduct.name = oldProd.name;
+        }
+
+        if (newProduct.price == null)
+        {
+            newProduct.price = oldProd.price;
+        }
+
+        if (newProduct.description == "")
+        {
+            newProduct.description = oldProd.description;
+        }
+
+        await Http.PutAsJsonAsync<Product>("/api/Product?key=" + newProduct.id, newProduct);
+
+        NavManager.NavigateTo("/dashboard");
+
+    }
+
+    public async Task LoadFiles(InputFileChangeEventArgs e)
+    {
+        selectedFile = e.File;
+    }
 }

@@ -7,6 +7,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "Blazored.SessionStorage.dll": "sha256-XkZNIC6OGMeHZDbBGnhfc9yXdLIvGa8LlKDd4ZPWkS8=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-K6YmoZTchDdcMLTUQuvOLzigs5YvS4pdIZ1EMnSPnyg=",
       "Microsoft.AspNetCore.Components.dll": "sha256-\/Xgh7C+kOz7PYylH+p+R7aqOBEOyYmXmOXOCgsvtcs4=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-\/BAyu\/mUbmaw+l8ZTxpnapsydH6MfD3Y+wXAzeSB5sI=",
@@ -29,6 +30,8 @@
       "Microsoft.Extensions.Primitives.dll": "sha256-f2PgoftqEkKRuuiAk6S1MHygOuqZBHzB0HOB3vR93TU=",
       "Microsoft.JSInterop.dll": "sha256-E3wWpdYhb0k2rxsSxtLYNRv652Vqa4jD10tJ7YcHMfU=",
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-qCntZAfBCtfByp1bUyV5HBcJpgteCGZZ1pMzH5kVDnE=",
+      "Microsoft.Win32.SystemEvents.dll": "sha256-IoOiIPXP6eeLpxBfywOReL63m1Ozqf2VVcX7cldqCs4=",
+      "System.Drawing.Common.dll": "sha256-B648ZqcTEwOoxwiMdV1KUt621v+aKkN4lpUpYPRvsAw=",
       "System.IO.Pipelines.dll": "sha256-3ET+mpR7F058YRj9YaLHOVXBqOW6iUxtIpeiKPYw4PA=",
       "Microsoft.CSharp.dll": "sha256-SEwnf+OVKlIODJVwpgEv6vIGOQgiwk4qjESezL0QxA8=",
       "Microsoft.VisualBasic.Core.dll": "sha256-XL3EJfsR1dfJHFBlEOootw\/VNlFSBGvHp5JatxZNdBs=",
@@ -195,13 +198,13 @@
       "mscorlib.dll": "sha256-7WjHY56PbksCp7YOxNV59r6MqLujjAH8vhnMJ+zVezY=",
       "netstandard.dll": "sha256-5TcSqPhm3fAT6s3NH7+BMGakcfGgZGd3\/\/cVwVs2VPI=",
       "System.Private.CoreLib.dll": "sha256-VJv3DLM\/G0m\/RnTeWL9X8mkbxlsn8nNRhm0BHYEY+uo=",
-      "Marketplace.Shared.dll": "sha256-kbHPZnXRLaMtAbjRiNJbfHqF8VVxAwBpkmh9bNIuQGU=",
-      "Marketplace.Client.dll": "sha256-Vn3wScCgQdGo8BZEobutv5+9bV6OjOuzkAmh0eK8z50="
+      "Marketplace.Shared.dll": "sha256-8o9P+qjppwfsJchg9h0okUiSht63f2ftlLktu9LC0vM=",
+      "Marketplace.Client.dll": "sha256-d34Pr7MRfIdvznnl61t3OUuQ\/LthlR6j6AJqGaJQDUM="
     },
     "lazyAssembly": null,
     "pdb": {
-      "Marketplace.Shared.pdb": "sha256-ozCEm6L1EAaYp9Pg4chcAOzT0HdHqHJzL2gJO2CUbtc=",
-      "Marketplace.Client.pdb": "sha256-xc0nBZ\/gqdtXKk\/DHcZgTirfE6x2ixgfOVQsTWnVNm8="
+      "Marketplace.Shared.pdb": "sha256-8vqTqq16HpvdkoNpcf4O70LKkwKpTNn95OXUbe620aM=",
+      "Marketplace.Client.pdb": "sha256-SnutRoxe7D7OAGJ+8LhBlr45VNCnf8tcTqvZo7o6E\/I="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-PvlHrby1PYtdX46ITs6pB8iDNqXNcewh8Eoa\/Gm2+GM=",

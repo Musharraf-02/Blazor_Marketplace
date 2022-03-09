@@ -250,3 +250,9 @@ C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplac
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\ref\Marketplace.Server.dll
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.pdb
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Server\obj\Debug\net5.0\Marketplace.Server.genruntimeconfig.cache
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Blazored.SessionStorage.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\System.Drawing.Common.dll

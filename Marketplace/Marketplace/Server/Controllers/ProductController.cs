@@ -113,6 +113,7 @@ namespace Marketplace.Server.Controllers
         [ActionName("GetBySellerID")]
         public async Task<IActionResult> Get([FromQuery] string sId)
         {
+            List<Product> productsList = new List<Product>();
             string connString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MarketDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             SqlConnection con = new SqlConnection(connString);
             SqlCommand cmd = new SqlCommand("Select * from Products where sellerId=@sId", con);
@@ -120,22 +121,24 @@ namespace Marketplace.Server.Controllers
             cmd.Parameters.Add(id);
             con.Open();
             SqlDataReader data = cmd.ExecuteReader();
-            data.Read();
-            
-            Product product = new Product();
-            product.id = data.GetInt32(0);
-            product.sellerId = data.GetInt32(1);
-            product.name = data.GetString(2);
-            product.price = data.GetDouble(3);
-            product.description = data.GetString(4);
-            product.category = data.GetString(5);
-            product.image = data.GetString(6);
 
+            while (data.Read())
+            {
+                Product product = new Product();
+                product.id = data.GetInt32(0);
+                product.sellerId = data.GetInt32(1);
+                product.name = data.GetString(2);
+                product.price = data.GetDouble(3);
+                product.description = data.GetString(4);
+                product.category = data.GetString(5);
+                product.image = data.GetString(6);
+                productsList.Add(product);
+            }
 
-            return Ok(product);
+            return Ok(productsList);
         }
 
-        /*Use this URLhttps:// localhost:44371/api/Seller/GetByAddressID?addId=1003 */
+        /*Use this URLhttps:// localhost:44371/api/Product/GetByProductID?pId=1003 */
         [HttpGet]
         [ActionName("GetByProductID")]
         public async Task<IActionResult> GetByAddressId([FromQuery] string pId)

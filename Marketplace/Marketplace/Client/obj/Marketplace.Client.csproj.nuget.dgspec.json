@@ -44,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Blazored.SessionStorage": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[5.0.9, )"
@@ -52,6 +56,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.9, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
             },
             "System.Net.Http.Json": {
               "target": "Package",
@@ -123,6 +131,16 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "Blazored.SessionStorage": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

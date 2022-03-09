@@ -13,78 +13,85 @@ namespace Marketplace.Client.Pages
     using System.Threading.Tasks;
     using Microsoft.AspNetCore.Components;
 #nullable restore
-#line 1 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
+#line 1 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 2 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
-using System.Net.Http.Json;
-
-#line default
-#line hidden
-#nullable disable
-#nullable restore
-#line 3 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
+#line 3 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 4 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
+#line 4 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 5 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
+#line 5 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 6 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
+#line 6 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web.Virtualization;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 7 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
+#line 7 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.WebAssembly.Http;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 8 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
+#line 8 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 9 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
+#line 9 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
 using Marketplace.Client;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 10 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
+#line 10 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
 using Marketplace.Client.Shared;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
-#line 11 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
+#line 11 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\_Imports.razor"
 using Marketplace.Client.Controls;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 2 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\Pages\Register.razor"
+using Marketplace.Shared;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\Pages\Register.razor"
+using System.Net.Http.Json;
 
 #line default
 #line hidden
@@ -97,6 +104,30 @@ using Marketplace.Client.Controls;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 43 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace Tutorial\Blazor_Marketplace\Marketplace\Marketplace\Client\Pages\Register.razor"
+       
+
+    public class SellerForm
+    {
+        public Seller seller = new Seller();
+        public Address formAddress = new Address();
+    }
+
+    SellerForm form = new SellerForm();
+
+    async void submitRequest()
+    {
+        var response= await Http.PostAsJsonAsync<Address>("api/Address", form.formAddress);
+        int addId=Int32.Parse(await response.Content.ReadAsStringAsync());
+        form.seller.addressId = addId;
+        await Http.PostAsJsonAsync<Seller>("api/Seller", form.seller);
+    }
+
+#line default
+#line hidden
+#nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }
 }
 #pragma warning restore 1591
