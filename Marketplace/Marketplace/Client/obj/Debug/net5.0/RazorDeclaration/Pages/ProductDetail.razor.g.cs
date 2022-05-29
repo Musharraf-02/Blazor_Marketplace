@@ -105,26 +105,49 @@ using System.Net.Http.Json;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 98 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\Pages\ProductDetail.razor"
+#line 122 "C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\Pages\ProductDetail.razor"
        
+
     [Parameter]
     public int id { get; set; }
 
-
     Product product = new Product();
-
-    public Marketplace.Client.Pages.ModalComponent Modal { get; set; }
 
     protected override async Task OnInitializedAsync()
     {
         product = await Http.GetFromJsonAsync<Product>("api/Product/GetByProductID?pId=" + id);
+        seller = await Http.GetFromJsonAsync<Seller>("api/Seller/GetBySellerId?id=" + product.sellerId);
+        sellerAddress = await Http.GetFromJsonAsync<Address>("api/Address?id=" + seller.addressId);
     }
+
+    Seller seller = new Seller();
+    Address sellerAddress = new Address();
+
+    public string ModalDisplay = "none;";
+    public string ModalClass = "";
+    public bool ShowBackdrop = false;
+
+    public void Open()
+    {
+        ModalDisplay = "block;";
+        ModalClass = "Show";
+        ShowBackdrop = true;
+        StateHasChanged();
+    }
+
+    public void Close()
+    {
+        ModalDisplay = "none";
+        ModalClass = "";
+        ShowBackdrop = false;
+        StateHasChanged();
+    }
+
 
 
 #line default
 #line hidden
 #nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime JsRuntime { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
     }
 }

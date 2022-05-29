@@ -198,13 +198,13 @@
       "mscorlib.dll": "sha256-7WjHY56PbksCp7YOxNV59r6MqLujjAH8vhnMJ+zVezY=",
       "netstandard.dll": "sha256-5TcSqPhm3fAT6s3NH7+BMGakcfGgZGd3\/\/cVwVs2VPI=",
       "System.Private.CoreLib.dll": "sha256-VJv3DLM\/G0m\/RnTeWL9X8mkbxlsn8nNRhm0BHYEY+uo=",
-      "Marketplace.Shared.dll": "sha256-8o9P+qjppwfsJchg9h0okUiSht63f2ftlLktu9LC0vM=",
-      "Marketplace.Client.dll": "sha256-6bv1v3P+EDWQ5ZOa7gK13MVr9C13B5OWoYISOdEXxfw="
+      "Marketplace.Shared.dll": "sha256-eDIvW94HuQDxmOgO6hvp0F\/2MblzWHOpEaD1my5Y\/hE=",
+      "Marketplace.Client.dll": "sha256-cWHuZtxN7cyizEaSiw7MKZpXu20D8t76rL4G4qerACw="
     },
     "lazyAssembly": null,
     "pdb": {
-      "Marketplace.Shared.pdb": "sha256-8vqTqq16HpvdkoNpcf4O70LKkwKpTNn95OXUbe620aM=",
-      "Marketplace.Client.pdb": "sha256-dailx7sEeBXxdtXusGs052q931NEkMcSI0Lt1lFYdZI="
+      "Marketplace.Shared.pdb": "sha256-X\/kysRXdzfA860XaMYtugnM8XgPxxhHjgJNO4PIpyzU=",
+      "Marketplace.Client.pdb": "sha256-LmhwglbXt1xl+SLEswqrJ5AJc1sDjW8FHq586gLqrPs="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-PvlHrby1PYtdX46ITs6pB8iDNqXNcewh8Eoa\/Gm2+GM=",

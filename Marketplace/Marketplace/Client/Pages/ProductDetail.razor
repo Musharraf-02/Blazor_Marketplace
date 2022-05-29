@@ -2,7 +2,7 @@
 @inject HttpClient Http
 @using Marketplace.Shared
 @using System.Net.Http.Json
-@inject IJSRuntime JsRuntime
+
 
 <NavigationBar></NavigationBar>
 <div class="container-fluid" style="background-color:white ;">
@@ -19,8 +19,8 @@
                     <div class="row my-5">
                         <div class="col-md-6 col-12"
                              style="border: 1px solid rgb(223, 236, 250) ;border-radius: 10px;">
-                            <img src="https://localhost:44371/api/UploadedFile?imageName=@product.image" class="card-img-top"
-                                 style="height:auto;max-width: 100%;">
+                            <img src="https://localhost:44371/api/UploadedFile?imageName=@product.image" class="img-fluid"
+                                 style="height: auto;max-width: 100%;">
                         </div>
                         <div class="col-md-6 col-12">
                             <h2>@product.name</h2>
@@ -28,15 +28,43 @@
                             <h3>$@product.price</h3>
 
                             <br>
+
+                            <div class="modal @ModalClass" id="exampleModalCenter" tabindex="-1" role="dialog"
+                                 aria-labelledby="exampleModalCenterTitle" aria-hidden="true" style="display:@ModalDisplay">
+                                <div class="modal-dialog modal-dialog-centered" role="document">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title" id="exampleModalLongTitle">
+                                                @product.name
+                                            </h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close" @onclick="()=>Close()">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body">
+                                            <span> Shop Name: @seller.shopName</span><br>
+                                            <span> Shop Address: @sellerAddress.address</span><br>
+                                            <span> Shop Phone: @seller.phoneNumber</span>
+                                            <span> Email: @seller.emailAddress</span>
+
+
+                                        </div>
+                                        <div class="modal-footer">
+                                            <button type="button" class="btn btn-primary" data-dismiss="modal" @onclick="()=>Close()">Close</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            @if (ShowBackdrop)
+                            {
+                                <div class="modal-backdrop fade show"></div>
+                            }
+
                             <div class="btn-group">
-
-                                <Marketplace.Client.Pages.ModalComponent productName="@product.name" sellerId=@product.sellerId @ref="Modal"></Marketplace.Client.Pages.ModalComponent>
-
-                                <button class="btn btn-primary px-5 py-3 mx-2" @onclick="() => Modal.Open()">
+                                <button class="btn btn-primary px-5 py-3 mx-2" @onclick="()=>Open()">
                                     View Details
                                 </button>
-
-
                             </div>
 
                             <br>
@@ -54,7 +82,6 @@
                             <p style="color: rgb(128, 128, 128);">
                                 @product.description
                             </p>
-                            
                         </div>
 
                     </div>
@@ -88,25 +115,46 @@
                 </div>
             </div>
 
-           
-
-
         </div>
     </div>
 </div>
 
 @code {
+
     [Parameter]
     public int id { get; set; }
 
-
     Product product = new Product();
-
-    public Marketplace.Client.Pages.ModalComponent Modal { get; set; }
 
     protected override async Task OnInitializedAsync()
     {
         product = await Http.GetFromJsonAsync<Product>("api/Product/GetByProductID?pId=" + id);
+        seller = await Http.GetFromJsonAsync<Seller>("api/Seller/GetBySellerId?id=" + product.sellerId);
+        sellerAddress = await Http.GetFromJsonAsync<Address>("api/Address?id=" + seller.addressId);
     }
+
+    Seller seller = new Seller();
+    Address sellerAddress = new Address();
+
+    public string ModalDisplay = "none;";
+    public string ModalClass = "";
+    public bool ShowBackdrop = false;
+
+    public void Open()
+    {
+        ModalDisplay = "block;";
+        ModalClass = "Show";
+        ShowBackdrop = true;
+        StateHasChanged();
+    }
+
+    public void Close()
+    {
+        ModalDisplay = "none";
+        ModalClass = "";
+        ShowBackdrop = false;
+        StateHasChanged();
+    }
+
 
 }

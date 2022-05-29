@@ -3219,9 +3219,7 @@ C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketp
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Blazored.SessionStorage.dll
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.SystemEvents.dll
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Common.dll
-C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ModalComponent.razor.g.cs
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\obj\Debug\net5.0\RazorDeclaration\Pages\ProductDetail.razor.g.cs
-C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\ModalComponent.razor.g.cs
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\obj\Debug\net5.0\Razor\Pages\ProductDetail.razor.g.cs
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\koItzWPY.gz
 C:\Users\ASUS\PUCIT Files\Web Engineering\MarketPlace\Blazor_Marketplace\Marketplace\Marketplace\Client\obj\Debug\net5.0\build-gz\SxXzce6S.gz
